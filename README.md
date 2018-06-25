@@ -2,7 +2,7 @@
 An Arduino Sketch able to emulate a Somfy remote control.
 
 
-If you want to learn more about the Somfy RTS protocol, check out [Pushtack](https://pushstack.wordpress.com/somfy-rts-protocol/).
+If you want to learn more about the Somfy RTS protocol, check out [Pushstack](https://pushstack.wordpress.com/somfy-rts-protocol/).
 
 
 
